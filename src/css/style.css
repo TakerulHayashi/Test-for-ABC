@@ -1,0 +1,44 @@
+body {
+  background-color: #202024;
+}
+
+.header {
+  width: 1920px;
+  height: 1098px;
+  left: 0px;
+}
+
+.header__astrolo {
+  position: absolute;
+  width: 515.6px;
+  height: 19.1px;
+  left: 658px;
+  top: 36.46px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.header__hr {
+  position: absolute;
+  width: 1440px;
+  height: 0px;
+  left: 196px;
+  top: 75px;
+}
+
+.header__chance {
+  position: absolute;
+  width: 515.6px;
+  height: 29.51px;
+  left: 658px;
+  top: 86.8px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 29px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.6);
+}
+/*# sourceMappingURL=style.css.map */
